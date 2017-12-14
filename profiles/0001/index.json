@@ -1,0 +1,25 @@
+{
+	"name":"गोविन्दभगवत्पादः",
+	"children":[{
+		"name":"शङ्कराचार्याभगवत्पादः",
+		"self":true,
+		"children":[
+			{
+				"name":"सुरेश्वराचार्यः",
+				"url":"profiles/0002/index.html"
+			},
+			{
+				"name":"पद्मपादाचार्यः",
+				"url":"profiles/0003/index.html"
+			},
+			{
+				"name":"हस्तामलकः",
+				"url":"profiles/0004/index.html"
+			},
+			{
+				"name":"तोटकाचार्यः",
+				"url":"profiles/0005/index.html"
+			}
+		]
+	}]
+}
