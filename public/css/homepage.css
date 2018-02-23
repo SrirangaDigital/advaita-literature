@@ -10,7 +10,7 @@ a {
     color: #222;
 }
 .banner {
-    background: url(../images/himalaya.jpg) no-repeat center center;
+    background: url(../images/himalaya-river.jpg) no-repeat center center;
     /*background-attachment: fixed;*/
     display: table;
     height: 100%;
@@ -46,7 +46,7 @@ a {
     outline: none;
 }
 .banner .overlay {
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.2);
     padding: 40px 0px;
     text-align: center;
     min-height: 100vh;
