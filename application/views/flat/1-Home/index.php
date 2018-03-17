@@ -1,7 +1,7 @@
 <div class="container-fluid banner firstDiv">
     <div class="row justify-content-center overlay">
         <div class="col-md-12 align-self-center">
-            <h1>Advaitadhārā<br /><small>An Encyclopaedia of Vedantic Works</small></h1>
+            <h1>Advaitadhārā<br /><small>Genealogical Bibliography of Vedantic Works</small></h1>
         </div>
         <a class="homepage scrollMore goTo" data-destination="#wordOfTheDay"><span></span>&nbsp;</a>
     </div>
