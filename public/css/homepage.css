@@ -10,7 +10,7 @@ a {
     color: #222;
 }
 .banner {
-    background: url(../images/himalaya-river.jpg) no-repeat center center;
+    background: url(../images/himalaya.jpg) no-repeat center center;
     /*background-attachment: fixed;*/
     display: table;
     height: 100%;
@@ -273,9 +273,12 @@ a.pill:hover{
 .back-red{
   background-color: #0277BD;
 }
-.back-orange{
+.back-blue2{
   background-color: #0288D1;
 }
 .back-black{
   background-color: #039BE5;
+}
+.back-orange{
+  background-color: #fd7f01;
 }
