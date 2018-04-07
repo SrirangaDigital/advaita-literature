@@ -6,77 +6,39 @@ class Database extends PDO {
 	
 	}
 
-	public function connect($db) {
+	public function useDB() {
 
-		$db = $this->prependDB($db);
-		if(!(defined($db . '_USER'))) {
-		    
-		    return null;
-		}
+		// Establish connection
+		$connection = new MongoDB\Client("mongodb://" . DB_USER . ":" . DB_PASSWORD . "@" . DB_HOST . ":" . DB_PORT . "/" . DB_NAME);
 
-		try {
-		    $dbh = new PDO('mysql:host=' . DB_HOST . ';dbname=' .  $db, constant($db . '_USER'), constant($db . '_PASSWORD'));
-		    $dbh->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-
-		    $sth = $dbh->prepare(CHAR_ENCODING_SCHEMA);
-			$sth->execute();
-
-		    return $dbh;
-		}
-		catch(PDOException $e) {
-		    // echo $e->getMessage();
-		    return null;
-	    }
+		// Select db
+		$db = $connection->{DB_NAME};
+		return $db;
 	}
 
-	public function createDB($db, $schema) {
+	public function createCollection($db, $collectionName) {
 
-		$db = $this->prependDB($db);
-		//~ echo $db;
-		try {
-		    $dbh = new PDO('mysql:host=' . DB_HOST . ';', constant($db . '_USER'), constant($db . '_PASSWORD'));
-		    $dbh->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-		    
-		    $schema = str_replace(':db', $db, $schema);
+		// Drop collection if exists
+		$db->dropCollection($collectionName);
 
-			$sth = $dbh->prepare($schema);
-			$sth->execute();
-		}
-		catch(PDOException $e) {
-		    echo $e->getMessage();
-	    }
+		// Create Collection
+		$db->createCollection($collectionName);
+
+		// Select collection
+		$collection = $this->selectCollection($db, $collectionName);
+
+		//Create fulltext index on every field
+		$collection->createIndex(['$**' => 'text'], [ 'language_override' => "mylanguage" ]);
+
+		return $collection;
 	}
 
-	public function createTable($table, $dbh, $schema) {
-		$sth = $dbh->prepare($schema);
-		$sth->execute();
-	}
+	public function selectCollection($db, $collectionName) {
 
-	public function dropTable($table, $dbh) {
-	
-		$sth = $dbh->prepare('DROP TABLE IF EXISTS '. $table);
-		$sth->execute();
-	}
+		// Select collection
+		$collection = $db->selectCollection($collectionName);
 
-	public function insertData($table, $dbh, $data) {
-
-		// Take list of keys as in schema and data
-	    $keys = implode(', ', array_keys($data));
-	    // form unnamed placeholders with count number of ? marks
-	    $bindValues =  str_repeat('?, ', count($data) - 1) . ' ?';
-	    $sth = $dbh->prepare('INSERT INTO ' . $table . ' (' . $keys .') VALUES (' . $bindValues . ')');
-
-		$sth->execute(array_values($data));
-	}
-	
-	public function executeQuery($dbh = null, $query = '') {
-
-	    $sth = $dbh->prepare($query);
-		$sth->execute();
-	}
-
-	public function prependDB($db = DEFAULT_JOURNAL) {
-		return DB_PREFIX . strtoupper($db);
+		return $collection;
 	}
 }
 
