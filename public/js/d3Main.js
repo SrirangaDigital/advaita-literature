@@ -86,7 +86,11 @@ function update(source) {
   //     .style("fill-opacity", function(d) { return d.url ? "1" : "0.4"; });
 
   nodeUpdate.select("text")
-      .style("fill", function(d) { return d.url ? "#0091EA" : "#555555"; });
+      .style("fill", function(d) { 
+
+        if(!d.url) return "#555555";
+        return (d.url.match(/acharya/)) ? "#0091EA" : "#2E7D32"; 
+      });
 
   // Transition exiting nodes to the parent's new position.
   var nodeExit = node.exit().transition()

@@ -10,7 +10,7 @@ $profileID = '0005';
     </div>
 </div>
 <script type="text/javascript">
-    var fileName = "<?=PUBLIC_URL?>profiles/index.json";
+    var fileName = "<?=PUBLIC_URL?>profiles/index.json?v=1.0";
     var BASE_URL = '<?=BASE_URL?>';
 </script>
 <script type="text/javascript" src="<?=PUBLIC_URL?>js/d3.min.js"></script>
