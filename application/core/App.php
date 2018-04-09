@@ -38,6 +38,7 @@ class App{
 		}
 
 		$this->params = $url ? array_values($url) : array();
+		$this->params = $this->attachQuery($this->params);
 
 		call_user_func_array(array($this->controller, $this->method), $this->params);
 	}
@@ -52,6 +53,17 @@ class App{
 			// If url does not have any parameters, then it is assumed that it will be the home page and hence 'Home' is returned 
 			return array('Home');
 		}
+	}
+
+	public function attachQuery($array) {
+
+		$query = $_GET;
+		if(isset($query['url'])) unset($query['url']);
+
+		$query = array_map('trim', $query);
+
+		array_unshift($array, $query);
+		return $array;
 	}
 
 }

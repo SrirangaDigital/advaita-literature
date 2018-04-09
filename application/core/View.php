@@ -83,19 +83,7 @@ class View {
 		$pageTitle = $this->getPageTitle($viewHelper, $path);
 
 		require_once 'application/views/header.php';
-		
-		// if(preg_match('/flat\/Home/', $path)) require_once 'application/views/carousel.php';
-		
-		if(file_exists('application/views/' . $actualPath . '.php')) {
-		    require_once 'application/views/' . $actualPath . '.php';
-		}
-		elseif(file_exists('application/views/' . $actualPath . '/index.php')) {
-		    require_once 'application/views/' . $actualPath . '/index.php';
-		}
-		else{
-		    require_once 'application/views/error/index.php';
-		}
-
+		require_once 'application/views/dynamicPageContainer.php';
 		// Side bar can be included by un-commenting the following line
 		// require_once($this->getSideBar($actualPath, $journal));
 		require_once 'application/views/footer.php';

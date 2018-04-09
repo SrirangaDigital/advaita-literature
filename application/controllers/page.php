@@ -14,7 +14,11 @@ class page extends Controller {
 
 	public function flat() {
 
-		$path = 'flat/' . implode('/', func_get_args());
+		$params = (func_get_args());
+		// Remove url query from params
+		unset($params[0]);
+
+		$path = 'flat/' . implode('/', $params);
 		$this->view($path);
 	}
 }

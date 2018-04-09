@@ -19,17 +19,42 @@
 
 /*Main page styles*/
 .main{
-  font-family: 'Siddhanta';
+  font-family: 'Siddhanta', 'Raleway', sans-serif;
   color: #555;
   font-size: 18px;
   line-height: 32px;
 }
-.main h1{
+.main .name{
+  margin-bottom: 50px;
+}
+.main .name h1{
   font-size: 40px;
   line-height: 50px;
   border-bottom: 1px solid #0091EA;
-  margin-bottom: 50px;
+  margin-bottom: 10px;
 }
+.main .bio h1{
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 30px;
+}
+.main .works li{
+  margin: 20px;
+}
+.main .works li .title{
+  color: #000;
+  margin-bottom: 10px;
+}
+.main .works li .source{
+  color: #333;
+  font-size: 14px;
+  margin-bottom: 0;
+}
+.main .works li .remarks{
+  margin-bottom: 40px;
+}
+
+
 .main .type{
   font-size: 21px;
   margin-top: 40px;
