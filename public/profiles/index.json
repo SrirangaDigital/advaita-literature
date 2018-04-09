@@ -1,101 +1,926 @@
 {
 	"name": "नारायणः",
+	"id":"",
 	"children": [
 		{
 			"name": "पद्मभुवः",
+			"id":"",
 			"children": [
+				{ "name": "सनत्सुजातः",
+					"url":"profile/acharya/0022"
+					 },
 				{
-					"name": "सनत्सुजातः"
+					"name": "जैमिनिः",
+					"url":"profile/acharya/0012"   
 				},
 				{
-					"name": "जैमिनिः"   
+					"name": "जाम्बवान",
+					"url":"profile/acharya/0011" 
 				},
 				{
-					"name": "जाम्बवान"
+					"name": "आश्मरथ्यः",
+					"url":"profile/acharya/0005"
 				},
 				{
-					"name": "आश्मरथ्यः"
+					"name": "आत्रेयः",
+					"url":"profile/acharya/0003"
 				},
 				{
-					"name": "आत्रेयः"
-				},
-				{
-					"name": "कर्ष्नाजिनिः"
+					"name": "कर्ष्णाजिनिः",
+					"url":"profile/acharya/0010" 
 				},
 				{
 					"name": "वशिष्टः",
+					"id":"",
 					"children":[{
 						"name":"शक्तिः",
+						"id":"",
 						"children":[{
 							"name":"पराशरः",
+							"id":"",
 							"children":[
-								{"name":"आदिशेषः"},
+								{"name":"आदिशेषः",
+								"url":"profile/acharya/0004"
+								},
 								{"name":"बादरायण व्यासः",
+									"url":"profile/acharya/0023",
 									"children":[{
 										"name":"शुकः",
+										"url":"profile/acharya/0021",
 										"children":[{
 											"name":"गौडपादः",
+											"url":"profile/acharya/0024",
 											"children":[{
-												"name":"गोविन्दभगवत्पादः",
+												"name":"गोनिन्दभगवत्पादः",
+												"id":"",
 												"children":[{
 													"name":"शङ्कराचार्याभगवत्पादः",
-													"url":"Profiles/0001/",
+													"url":"profile/acharya/0026",
 													"children":[
 														{
 															"name":"सुरेश्वराचार्यः",
-															"url":"Profiles/0002/",
+															"url":"profile/acharya/0028",
 															"children":[
 																{
 																	"name":"सर्वज्ञात्मा",
+																	"url":"profile/acharya/0034",
 																	"children":[
 																		{
 																			"name":"ब्रह्मानन्दः",
+																			"url":"profile/granthakara/0133",
 																			"children":[
-																				{"name":"योगानन्दः "}
+																				{"name":"योगानन्दः ",
+																				 "id":""}
 																			]
 																		},
 																		{"name":"सत्यबोधः",
+																			"id":"",
 																			"children":[
-																				{"name":"ज्ञाननन्दः (ज्ञाानोत्तमः)"}
+																				{"name":"ज्ञाननन्दः (ज्ञाानोत्तमः)",
+																					"id":"",
+																					"children":[
+																					{
+																						"name":"तत्वबोधभगवान्",
+																						"url":"profile/granthakara/0081"
+																					},
+																					{
+																						"name":"उत्तमज्ञः",
+																						"id":""
+																					},
+																					{
+																						"name":"विज्ञानात्मा",
+																						"url":"profile/granthakara/0203"
+																					},
+																					{
+																						 "name":"चित्सुखः",
+																						 "url":"profile/acharya/0039",
+																						 "children":[
+																						 {
+																							 "name":"सुखप्रकाशः",
+																							 "url":"profile/granthakara/0239"
+																						 },
+																						 {
+																							 "name":"श्रीहर्ष",
+																							 "url":"profile/acharya/0036",
+																							 "children":[
+																							 {
+																								  "name":"अनुभूतिस्वरूपः",
+																								  "url":"profile/acharya/0038",
+																								  "children":[
+																								  {
+																									   "name":"<आनन्दगिरिः>",
+																									   "url":"profile/acharya/0041",
+																									   "children":[
+																									   {
+																										   "name":"प्रज्ञानारण्यः",
+																										   "id":""
+																										},
+																									   {
+																										   "name":"यादवेन्द्रगिरिः",
+																										   "id":"",
+																										   "children":[
+																										   {
+																											    "name":"अमृतानन्दः",
+																											    "id":""
+																										   } 
+																										   ]
+																										}
+																									   ]
+																								  }
+																								  ]
+																							 }
+																							 ]
+																						 },
+																						 {
+																							"name":"शुद्धानन्दः",
+																							"id":"",
+																							 "children":[
+																										   {
+																											   "name":"<आनन्दगिरिः>",
+																											    "url":"profile/acharya/0041"
+																										   } ]
+																						},
+																						{
+																							"name":"शङ्करानन्दः",
+																							"url":"profile/acharya/0044",
+																							"children":[
+																							{
+																								"name":"प्रकाशानन्दः",
+																								"id":""
+																							},
+																							{
+																								"name":"सदानन्दः",
+																								"id":"",
+																								"children":[
+																								{
+																									"name":"अद्वयानन्दः",
+																									"url":"profile/granthakara/0005",
+																								"children":[
+																								{
+																									"name":"सदानन्दः",
+																									"id":"",
+																								"children":[
+																								{
+																									"name":"नारायणसरस्वती",
+																									"url":"profile/granthakara/0311",
+																								"children":[
+																								{
+																									"name":"पदूमनाभसरस्वती",
+																									"id":"",
+																								"children":[
+																								{
+																									"name":"श्वेतगिरिः",
+																									"id":""
+																								},
+																								{
+																									"name":"अानन्दपूर्णः",
+																									"id":"",
+																									"children":[
+																									{
+																										"name":"शिवरामानन्दः",
+																										"id":"",
+																										"children":[
+																										{
+																											"name":"शिवनारायणानन्दः",
+																											"url":"profile/granthakara/0218"
+																										}
+																										]
+																									},
+																									{
+																										"name":"गोपालानन्दः",
+																										"id":"",
+																										"children":[
+																										{
+																											"name":"गोविन्दानन्दः",
+																											"url":"profile/acharya/0054",
+																											"children":[
+																										{
+																											"name":"रधुनाथसरस्वती",
+																											"id":""
+																										},
+																										{
+																											"name":"रामानन्दः",
+																											"url":"profile/granthakara/0358",
+																											"children":[
+																											{
+																											"name":"अद्वैतानन्दः",
+																											"url":"profile/granthakara/0262",
+																											"children":[
+																											{
+																											"name":"पूर्णानन्दः",
+																											"url":"profile/granthakara/0323"
+																											},
+																											{
+																											"name":"अच्युतकृष्णानन्दः",
+																											"id":""
+																											}
+																											]
+																											},
+																											{
+																											"name":"शाश्वतानन्दः",
+																											"url":"profile/granthakara/0215"
+																											}
+																											]
+																											},
+																										{
+																											"name":"नारायणानन्दः",
+																											"id":""
+																										},
+																										{
+																											"name":"परमानन्दः",
+																											"id":"",
+																										"children":[
+																											{
+																											"name":"गौडब्रह्मानन्दः",
+																											"url":"profile/acharya/0057",
+																											"children":[
+																											{
+																											"name":"शेषविश्वेश्वरः",
+																											"id":""
+																											},
+																											{
+																											"name":"अन्नम्भट्टः",
+																											"url":"profile/granthakara/0009",
+																											"children":[
+																											{
+																											"name":"वेदाद्रिसूरिः",
+																											"url":"profile/granthakara/0212"
+																											}
+																											]
+																											},
+																											{
+																											"name":"अच्युतकृष्णानन्दः",
+																											"id":""
+																											},
+																											{
+																											"name":"राघवानन्दः",
+																											"url":"profile/granthakara/0347"
+																											},
+																											{
+																											"name":"त्र्यम्बकभट्टः",
+																											"url":"profile/granthakara/0085"
+																											},
+																											{
+																											"name":"उपेन्द्रानन्दः",
+																											"id":""
+																											},
+																											{
+																											"name":"सदानन्दकाष्मीरी",
+																											"url":"profile/acharya/0063"
+																											},
+																											{
+																											"name":"बालकृष्णानन्दः",
+																											"url":"profile/granthakara/0328",
+																											"children":[
+																											{
+																											"name":"महादेवः",
+																											"id":""
+																											},
+																											{
+																											"name":"कैलसेशः",
+																											"id":""
+																											}
+																											]
+																											}
+																											]	
+																											}
+																											]	
+																										},
+																										{
+																											"name":"श्रीधरानन्दः",
+																											"url":"profile/granthakara/0405"
+																										},
+																										{
+																											"name":"वासुदेवानन्दः",
+																											"id":"",
+																										"children":[
+																											{
+																											"name":"रङ्गनाथयतिः",
+																											"id":""
+																											},
+																											{
+																											"name":"रघुनाथसूरिः",
+																											"url":"profile/granthakara/0157",
+																											"children":[
+																											{
+																											"name":"शिवरामः",
+																											"url":"profile/granthakara/0219"
+																											}
+																											]
+																											},
+																											{
+																											"name":"अनुभवानन्दः",
+																											"url":"profile/granthakara/0008"
+																											},
+																											{
+																											"name":"सृब्रह्मण्यः",
+																											"id":""
+																											},
+																											{
+																											"name":"अय्याध्वरी",
+																											"id":""
+																											},
+																											{
+																											"name":"प्रज्ञानारण्यः",
+																											"id":""
+																											},
+																											{
+																											"name":"रामानन्द सरस्वती",
+																											"url":"profile/acharya/0055",
+																											"children":[
+																											{
+																											"name":"नृसिम्हसरस्वती",
+																											"url":"profile/granthakara/0112"
+																											},
+																											{
+																											"name":"भास्करदिक्षितः",
+																											"url":"profile/granthakara/0139",
+																											"children":[
+																											{
+																											"name":"विजयराघवः",
+																											"id":""
+																											},
+																											{
+																											"name":"उमामहेश्वरः",
+																											"url":"profile/granthakara/0027"
+																											},
+																											{
+																											"name":"नारायण सरस्वती",
+																											"url":"profile/granthakara/0311"
+																											},
+																											{
+																											"name":"सच्चिदानन्दः",
+																											"id":""
+																											},
+																											{
+																											"name":"वेङ्कटनाथः",
+																											"url":"profile/granthakara/0392",
+																											"children":[
+																											{
+																											"name":"धर्मराजाध्वरी",
+																											"url":"profile/acharya/0052",
+																											"children":[
+																											{
+																											"name":"रामकृष्णदीक्षितः",
+																											"url":"profile/granthakara/0164"
+																											},
+																											{
+																											"name":"पेद्दादीक्षितः",
+																											"id":""
+																											}
+																											]
+																											
+																											}
+																											]
+																											},
+																											{
+																											"name":"भट्टोजिदीक्षितः",
+																											"url":"profile/acharya/0053",
+																											"children":[
+																											{
+																											"name":"रङ्गोजिभट्टः",
+																											"url":"profile/granthakara/0187"
+																											},
+																											{
+																											"name":"आनन्दाश्रमः",
+																											"url":"profile/granthakara/0021",
+																												"children":[
+																											{
+																											"name":"चिद्धनानन्दः",
+																											"url":"profile/granthakara/0067"
+																											},
+																											{
+																											"name":"सच्चिदानन्दः",
+																											"id":""
+																											}
+																											]
+																											}
+																											]
+																											},
+																											{
+																											"name":"शेषकृष्णः",
+																											"id":""
+																											},
+																											{
+																											"name":"नृसिम्हाश्रमी",
+																											"url":"profile/acharya/0050",
+																											"children":[
+																											{
+																											"name":"रामतीर्थः",
+																											"url":"profile/granthakara/0167",
+																											"children":[
+																											{
+																											"name":"कृष्णतीर्थः",
+																											"id":""
+																											},
+																											{
+																											"name":"भट्टनारायणः",
+																											"id":""
+																											},
+																											{
+																											"name":"नारायणप्रियः",
+																											"url":"profile/granthakara/0103"
+																											},
+																											{
+																											"name":"अनन्तदेवः",
+																											"url":"profile/granthakara/0006",
+																											"children":[
+																											{
+																											"name":"आपदेवः",
+																											"url":"profile/granthakara/0022",
+																											"children":[
+																											{
+																											"name":"अनन्तदेवः",
+																											"url":"profile/granthakara/0006",
+																											"children":[
+																											{
+																											"name":"आपदेवः",
+																											"url":"profile/granthakara/0022"
+																											}
+																											]
+																											}
+																											]
+																											}
+																											]
+																											},
+																											{
+																											"name":"पुरुषोत्तमः",
+																											"id":""
+																											}
+																											]
+																											},
+																											{
+																											"name":"गीर्वाणेन्द्रसरस्वती",
+																											"url":"profile/granthakara/0050",
+																											"children":[
+																											{
+																											"name":"विश्वेश्वरसरस्वती",
+																											"id":"",
+																											"children":[
+																											{
+																											"name":"अमरेन्द्रसरस्वती",
+																											"id":""
+																											}
+																											]
+																											}
+																											]
+																											},
+																											{
+																											"name":"बालगोपालः",
+																											"id":"",
+																											"children":[
+																											{
+																											"name":"स्वयम्प्रकाशः",
+																											"id":"",
+																											"children":[
+																											{
+																											"name":"अखण्डानन्दः",
+																											"id":""
+																											},
+																											{
+																											"name":"महादेवः",
+																											"id":"",
+																											"children":[
+																											{
+																											"name":"महादेवेन्द्रः",
+																											"id":""
+																											},
+																											{
+																											"name":"आत्मबोधः",
+																											"id":""
+																											}
+																											]
+																											}
+																											]
+																											}
+																											]
+																											},
+																											{
+																											"name":"जगन्नाथसरस्वती",
+																											"url":"profile/granthakara/0071"
+																											}
+																											]
+																											},
+																											{
+																											"name":"रङ्गराजाध्वरी",
+																											"url":"profile/granthakara/0186",
+																											"children":[
+																											{
+																											"name":"अप्पय्यदीक्षितः",
+																											"url":"profile/acharya/0051",
+																											"children":[
+																											{
+																											"name":"रघुनाथाश्रमी",
+																											"id":""
+																											},
+																											{
+																											"name":"कालहस्तीशः",
+																											"id":"",
+																											"children":[
+																											{
+																											"name":"अग्निहोत्रभट्टः",
+																											"url":"profile/granthakara/0003"
+																											},
+																											{
+																											"name":"वासुदेवेन्द्रः",
+																											"id":"",
+																											"children":[
+																											{
+																											"name":"स्वयम्प्रकाशः",
+																											"id":"",
+																											"children":[
+																											{
+																											"name":"नारायणसरस्वती",
+																											"url":"profile/granthakara/0311"
+																											},
+																											{
+																											"name":"गोपालशास्त्री",
+																											"id":"",
+																											"children":[
+																											{
+																											"name":"त्यागराजशास्त्री (राजुशास्त्री)",
+																											"url":"profile/acharya/0068",
+																											"children":[
+																											{
+																											"name":"हरिहरशास्त्री",
+																											"url":"profile/acharya/0069",
+																											"children":[
+																											{
+																											"name":"श्रीरामशास्त्री",
+																											"url":"profile/acharya/0071"
+																											},
+																											{
+																											"name":"कृष्णशास्त्री",
+																											"url":"profile/granthakara/0040"
+																											},
+																											{
+																											"name":"अनन्तकृष्णशास्त्री",
+																											"url":"profile/acharya/0070",
+																											"children":[
+																											{
+																											"name":"वेङ्कटसुब्बाशास्त्री",
+																											"id":""
+																											},
+																											{
+																											"name":"पञ्चापगेशशास्त्री",
+																											"id":""
+																											}
+																											]
+																											},
+																											{
+																											"name":"दण्डपाणिस्वामिदीक्षित",
+																											"id":""
+																											}
+																											]
+																											}
+																											]
+																											}
+																											]
+																											},
+																											{
+																											"name":"रघुनाथशास्त्रौ",
+																											"id":""
+																											}
+																											]
+																											},
+																											{
+																											"name":"उपनिषद् ब्रह्म",
+																											"id":"",
+																											"children":[
+																											{
+																											"name":"कृष्णानन्दः",
+																											"id":"",
+																											"children":[
+																											{
+																											"name":"वासुदेवब्रह्म",
+																											"url":"profile/granthakara/0197"
+																											},
+																											{
+																											"name":"हृषीकेशः",
+																											"id":""
+																											}
+																											]
+																											},
+																											{
+																											"name":"वासुदेवेन्द्र",
+																											"url":"profile/granthakara/0201"
+																											}
+																											]
+																											},
+																											{
+																											"name":"रामचन्द्रेन्द्रः",
+																											"id":"",
+																											"children":[
+																											{
+																											"name":"अभिनवरादाशिवः",
+																											"id":""
+																											},
+																											{
+																											"name":"तारकब्रह्म",
+																											"id":"",
+																											"children":[
+																											{
+																											"name":"विमलब्रह्म",
+																											"url":"profile/granthakara/0208"
+																											}
+																											]
+																											},
+																											{
+																											"name":"रामब्रह्मेन्द्रः",
+																											"id":""
+																											}
+																											]
+																											},
+																											{
+																											"name":"कृष्णानन्दः",
+																											"id":"",
+																											"children":[
+																											{
+																											"name":"चन्द्रिकाचार्यः",
+																											"id":"",
+																											"children":[
+																											{
+																											"name":"माधवतीर्थः",
+																											"id":""
+																											},
+																											{
+																											"name":"शिवानन्देन्द्रः",
+																											"id":""
+																											}
+																											]
+																											}
+																											]
+																											},
+																											{
+																											"name":"रामब्रह्मेन्द्रः",
+																											"id":"",
+																											"children":[
+																											{
+																											"name":"चन्द्रिकाचार्यः",
+																											"id":""
+																											}
+																											]
+																											},
+																											{
+																											"name":"वासुदेवेन्द्रः",
+																											"id":""
+																											},
+																											{
+																											"name":"विद्येन्द्रः",
+																											"id":""
+																											},
+																											{
+																											"name":"अभिनवनारायाणः",
+																											"id":"",
+																											"children":[
+																											{
+																											"name":"परमाशिवेन्द्रः",
+																											"id":"",
+																											"children":[
+																											{
+																											"name":"रामभद्रदीक्षितः",
+																											"url":"profile/granthakara/0172"
+																											},
+																											{
+																											"name":"सदाशिवब्रह्म",
+																											"id":"",
+																											"children":[
+																											{
+																											"name":"नल्लासुधीः",
+																											"url":"profile/granthakara/0099"
+																											}
+																											]
+																											},
+																											{
+																											"name":"वैद्यनाथः",
+																											"id":""
+																											}
+																											]
+																											}
+																											]
+																											},
+																											{
+																											"name":"ज्ञानेन्द्रः",
+																											"id":"",
+																											"children":[
+																											{
+																											"name":"वासुदेवेन्द्रः",
+																											"id":""
+																											},
+																											{
+																											"name":"कैवल्येन्द्रः",
+																											"url":"profile/granthakara/0047"
+																										
+																											}
+																											]
+																											}
+																											]
+																											}
+																											]
+																											}
+																											]
+																											}
+																											]
+																											}
+																											]
+																											}
+																											]
+																											}
+																											]	
+																										}
+																										]
+																										},
+																										{
+																											"name":"स्वयम्प्रकाशानन्दः",
+																											"url":"profile/granthakara/0250"
+																										}
+																										]
+																									},
+																									{
+																										"name":"पुरुषोत्तमानन्दः",
+																										"id":""
+																									}
+																									]
+																								},
+																								{
+																									"name":"अभयानन्दः",
+																									"id":""
+																								}
+																								]	
+																								}
+																								]	
+																								}
+																								]		
+																								}
+																								]		
+																								
+																								}
+																								]	
+																							}
+																							]
+																								
+																						}
+																						 ]
+																					}
+																						]
+																					}
 																			]
 																		}
 																	]
 																},
 																{
 																	"name":"नित्यबोधधनः",
+																	"id":"",
 																	"children":[
 																		{
-																			"name":"ज्ञानधनः"
+																			"name":"ज्ञानघनः",
+																			"url":"profile/granthakara/0075",
+																		"children":[
+																		{
+																			"name":"ज्ञानोत्तमशिवः",
+																			"id":"",
+																		"children":[
+																		{
+																			"name":"ज्ञानगिरिः",
+																			"id":"",
+																		"children":[
+																		{
+																			"name":"नृसिम्हगिरिः",
+																			"id":"",
+																		"children":[
+																		{
+																			"name":"ईश्वरतीर्थः",
+																			"url":"profile/granthakara/0023",
+																		"children":[
+																		{
+																			"name":"नृसिम्हतीर्थः",
+																			"id":"",
+																		"children":[
+																		{
+																			"name":"विद्यातीर्थः",
+																			"url":"profile/granthakara/0206",
+																		"children":[
+																		{
+																			"name":"भारतीतीर्थः",
+																			"url":"profile/acharya/0045",
+																		"children":[
+																		{
+																			"name":"कृष्णानन्दभारती",
+																			"url":"profile/granthakara/0042"
 																		},
 																		{
-																			"name":"ज्ञानोत्तमशिवः"
+																			"name":"आनन्दभारती",
+																			"id":""
+																		},
+																		{
+																			"name":"विद्यारण्यः",
+																			"url":"profile/acharya/0046",
+																		"children":[
+																		{
+																			"name":"ब्रह्मानन्दभारती",
+																			"url":"profile/granthakara/0134"
+																		},
+																		{
+																			"name":"रामकृष्णः",
+																			"url":"profile/granthakara/0163"
+																		},
+																		{
+																			"name":"कृष्णानन्दभारती",
+																			"url":"profile/granthakara/0042"
+																		},
+																		{
+																			"name":"महेश्वरतीर्थः",
+																			"url":"profile/granthakara/0146"
+																		},
+																		{
+																			"name":"चिद्धनानन्दः",
+																			"url":"profile/granthakara/0067"
+																		}
+																		]
+																		},
+																		{
+																			"name":"रामनन्दभारती",
+																			"id":""
+																		},
+																		{
+																			"name":"परमानन्दः",
+																			"id":""
+																		},
+																		{
+																			"name":"परमेश्वरभारती",
+																			"url":"profile/granthakara/0115"
+																		}
+																		]
+																		},
+																		{
+																			"name":"आनन्दभारती",
+																			"id":""
+																		},
+																		{
+																			"name":"रामेश्वरभारती",
+																			"url":"profile/granthakara/0183"
+																		}
+																		]
+																		}
+																		]
+																		}
+																		]
+																		}
+																		]
+																		}
+																		]
+																		}
+																		]
+																		}
+																		]
 																		}
 																	]
 																}
 															]  
 														},
-														{
-															"name":"पद्मपादाचार्यः",
-															"url":"Profiles/0003/"
+														{"name":"पद्मपादः",
+														  "url":"profile/acharya/0027"
 														},
-														{
-															"name":"हस्तामलकः",
-															"url":"Profiles/0004/"
-														},
-														{
-															"name":"तोटकाचार्यः",
-															"url":"Profiles/0005/"
-														}
+														{"name":"हस्तामलकः",
+															"url":"profile/acharya/0030"},
+														{"name":"तोटकाचार्यः",
+															"url":"profile/acharya/0029"}
 													]
 												}]	 
 											}]
 										}]									
 									}]
 								},
-								{"name":"वाल्मीकिः"}
+								{"name":"वाल्मीकिः",
+								"url":"profile/acharya/0020"
+								}
 							]
 						}]
 					}]
+				},
+				{
+					"name": "अष्टावक्रः",
+					"url":"profile/acharya/0001"
+				},
+				{
+					"name": "औङुलोमिः",
+					"id":""
+				},
+				{
+					"name": "काशकृत्स्नः",
+					"url":"profile/acharya/0008"
+				},
+				{
+					"name": "काश्यपः",
+					"url":"profile/acharya/0009"
+				},
+				{
+					"name": "दत्तात्रेयः",
+					"url":"profile/acharya/0013"
+				},
+				{
+					"name": "बादरिः",
+					"url":"profile/acharya/0015"
 				}
 			]
 		}

@@ -1,6 +1,6 @@
 var margin = {top: 10, right: 10, bottom: 10, left: 10},
-    width = 1200 - margin.right - margin.left,
-    height = 1500 - margin.top - margin.bottom;
+    width = 8000 - margin.right - margin.left,
+    height = 10500 - margin.top - margin.bottom;
 
 var i = 0,
     duration = 1,
