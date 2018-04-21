@@ -39,7 +39,7 @@
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/viewer.css?v=1.0">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/navbar.css?v=1.0">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/homepage.css?v=1.41">
-    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/profile.css?v=1.21">
+    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/profile.css?v=1.22">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/general.css?v=1.0">
 
     <!-- Fonts
