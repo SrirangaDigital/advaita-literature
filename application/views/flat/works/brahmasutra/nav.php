@@ -14,7 +14,13 @@
     <article class="timeline-entry">
         <div class="timeline-entry-inner">
             <div class="timeline-icon back-green"></div>
-            <div class="timeline-label"><h2><a href="<?=BASE_URL?>works/brahmasutra/panchapadika/">पञ्चपादिकाविवरणप्रस्थानम्</a></h2></div>
+            <div class="timeline-label"><h2><a href="<?=BASE_URL?>works/brahmasutra/panchapadika/">पञ्चपादिकाप्रस्थानम्</a></h2></div>
+        </div>
+    </article>
+    <article class="timeline-entry">
+        <div class="timeline-entry-inner">
+            <div class="timeline-icon back-green"></div>
+            <div class="timeline-label"><h2><a href="<?=BASE_URL?>works/brahmasutra/vivaranam/">विवरणप्रस्थानम्</a></h2></div>
         </div>
     </article>
     <article class="timeline-entry">

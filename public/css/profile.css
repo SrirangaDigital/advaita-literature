@@ -89,6 +89,9 @@
   margin-bottom: 8px;
   color: #000;
 }
+.main .text a{
+  color: #ee4749;
+}
 .main ul ul li{
   font-size: 16px;
   color: #666;
