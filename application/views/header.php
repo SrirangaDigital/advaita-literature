@@ -38,11 +38,13 @@
     <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/viewer.css?v=1.0">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/navbar.css?v=1.0">
-    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/homepage.css?v=1.4">
-    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/profile.css?v=1.2">
+    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/homepage.css?v=1.41">
+    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/profile.css?v=1.21">
+    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/general.css?v=1.0">
 
     <!-- Fonts
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <link href="https://fonts.googleapis.com/css?family=Eczar|Halant|Karma|Martel|Sahitya|Vesper+Libre" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display|Raleway:200,300,400|Roboto:300,400&amp;subset=latin-ext" rel="stylesheet">
 
     <!-- Favicon

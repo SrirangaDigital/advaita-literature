@@ -267,20 +267,3 @@ a.pill{
 a.pill:hover{
   text-decoration: none;
 }
-.back-blue{
-  background-color: #01579B;
-}
-.back-red{
-  background-color: #0277BD;
-}
-.back-blue2{
-  background-color: #0288D1;
-}
-.back-black{
-  background-color: #039BE5;
-}
-.back-orange{
-  /*background-color: #fd7f01;*/
-  background: linear-gradient(to right, #fd5f01, #fd7f01);
-  /*background: linear-gradient(to right, #338F9A, #0F76BB);*/
-}

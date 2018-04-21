@@ -1,7 +1,7 @@
     <div class="container footer"><!-- container -->
         <div class="row justify-content-center"><!-- row -->
             <div class="col-md-12 text-center">
-                <p><small>© 2017 Sriranga Digital Software Technologies Private Limited</small></p>
+                <!-- <p><small>© 2017 Sriranga Digital Software Technologies Private Limited</small></p> -->
             </div>
         </div>
     </div>
