@@ -1,3 +1,4 @@
+<div class="pills">ब्रह्मसूत्रप्रस्थानम्</div>
 <div class="timeline-centered">
     <article class="timeline-entry">
         <div class="timeline-entry-inner">

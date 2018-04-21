@@ -1,3 +1,4 @@
+<div class="pills">प्रकरणग्रन्थाः</div>
 <div class="timeline-centered">
     <article class="timeline-entry">
         <div class="timeline-entry-inner">
