@@ -16,7 +16,7 @@
     <!-- Basic Page Needs
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <meta charset="utf-8">
-    <title><?php if($pageTitle) echo $pageTitle . ' | '; ?>Advaitadhārā</title>
+    <title><?php if($pageTitle) echo ucwords($pageTitle) . ' | '; ?>Advaitadhārā</title>
     <meta name="description" content="">
     <meta name="author" content="">
 
