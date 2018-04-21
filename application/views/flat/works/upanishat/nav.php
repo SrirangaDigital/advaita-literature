@@ -69,7 +69,7 @@
         <div class="timeline-entry-inner">
             <div class="timeline-icon back-red"></div>
             <div class="timeline-label">
-                <h2><a href="<?=BASE_URL?>works/upanishat/others/">इतरे</a></h2>
+                <h2><a href="<?=BASE_URL?>works/upanishat/others/">इतरे उपनिषदः</a></h2>
                 <p>
                     अथर्वशिखोपनिषत्<br />
                     अथर्वशिर उपनिषदः<br />
