@@ -1,17 +1,17 @@
-<div class="container-fluid banner firstDiv">
+<!-- <div class="container-fluid banner firstDiv">
     <div class="row justify-content-center overlay">
         <div class="col-md-12 align-self-center">
             <h1>Advaitadhārā<br /><small>Genealogical Bibliography of Vedantic Works</small></h1>
         </div>
         <a class="homepage scrollMore goTo" data-destination="#wordOfTheDay"><span></span>&nbsp;</a>
     </div>
-</div>
+</div> -->
 <div class="container-fluid p-0">
     <div class="row py-5 prelims justify-content-center">
-        <div class="col-md-3">
+        <!-- <div class="col-md-3">
             <img class="img-fluid" src="<?=PUBLIC_URL?>images/shankara.jpg">
-        </div>
-        <div class="col-md-7">
+        </div> -->
+        <div class="col-md-8">
             <h1 style="color: #D50000">Advaitadhārā</h1>
             <div class="description">
                 <p><em>Seeded by a grant from Sri D P Santhanam Endowment Fund</em></p>
@@ -19,7 +19,22 @@
             </div>
         </div>
     </div>
-    <div class="row prelims justify-content-center align-items-center" style="color: #FFF; font-weight: 400">
+
+    <div class="row prelims justify-content-center">
+        <div class="col-md-4 text-center">
+            <a href="<?=BASE_URL?>About/#indic-academy"><img class="img-fluid" src="<?=PUBLIC_URL?>images/indic-academy.jpg"></a>
+        </div>
+        <div class="col-md-4 text-center mt-5">
+            <a href="<?=BASE_URL?>About/#santhanam"><h4>D P Santhanam <small>(1926 - 2012)</small></h4>
+            <p>Sponsors</p></a>
+        </div>
+        <div class="col-md-4 text-center">
+            <a href=""><img class="img-fluid" src="<?=PUBLIC_URL?>images/sriranga-logo.png">
+            <p>Application development</p></a>
+        </div>
+    </div>
+
+   <!--  <div class="row prelims justify-content-center align-items-center" style="color: #FFF; font-weight: 400">
         <div class="p-5 col-md-8 back-orange" style="color: #FFF;">
             <h4>Indic Academy and Hari Kiran Vadlamani</h4>
             <div class="description">
@@ -51,7 +66,7 @@
                 <p>Sri D V Sridharan, his nephew, acting on behalf of D P Santhanam is pleased to contribute Rs. 5 Lakhs to fund the Advaitadhārā Project.</p>
             </div>
         </div>
-    </div>
+    </div> -->
     <div class="row prelims justify-content-around py-5 my-5">
         <a class="col-md back-blue pill" href="<?=BASE_URL?>Lineage">
             <p>Guru-Shiṣya<br />Paramparā</p>

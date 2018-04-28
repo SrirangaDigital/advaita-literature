@@ -1,6 +1,11 @@
 a {
-  color: #1565C0;
+  color: #000;
 }
+
+a:hover {
+    text-decoration: none;
+}
+
 .flat-page, .dynamic-page{
     margin-top: 80px;
 }
@@ -142,6 +147,7 @@ a {
 .blessing img{
     margin-bottom: 20px;
 }
+
 
 @media(min-width:768px) {
     .flat-page, .dynamic-page{
