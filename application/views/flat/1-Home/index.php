@@ -7,29 +7,34 @@
     </div>
 </div> -->
 <div class="container-fluid p-0">
-    <div class="row py-5 prelims justify-content-center">
+    <div class="row py-3 prelims justify-content-center">
         <!-- <div class="col-md-3">
             <img class="img-fluid" src="<?=PUBLIC_URL?>images/shankara.jpg">
         </div> -->
         <div class="col-md-8">
             <h1 style="color: #D50000">Advaitadhārā</h1>
             <div class="description">
-                <p><em>Seeded by a grant from Sri D P Santhanam Endowment Fund</em></p>
-                <p>Advaita literature is vast, well studied, has continuous stream of contributions and has a well documented grantha paramapara - hierarchy of texts. The aim of the project is to present this immense intellectual treasure in the form of a genealogy tree on the Internet canvass with extensive hyperlinks and details of the authors and their works. A magnificent work by Vidwan R. Thangaswamy, `Bibiliographical Survey Of Advaita Vedanta', published by the University of Madras in 1980 inspires this project which would capture his work in a form designed to facilitate further research in this field. Therefore this project is of immense value to students / researchers of Vedanta and is certain to have a very large number of visits.</p>
+                <!-- <p><em>Seeded by a grant from Sri D P Santhanam Endowment Fund</em></p> -->
+                <p>Advaita literature is vast, well studied, has continuous stream of contributions and has a well documented grantha paramapara - hierarchy of texts. The aim of the project is to present this immense intellectual treasure in the form of a genealogy tree on the Internet canvass with extensive hyperlinks and details of the authors and their works. A magnificent work by Vidwan R. Thangaswamy, <a href="<?=BASE_URL?>About/#thangaswami">`Bibiliographical Survey Of Advaita Vedanta',</a> published by the University of Madras in 1980 inspires this project.</p> 
+                <!-- <p>which would capture his work in a form designed to facilitate further research in this field. Therefore this project is of immense value to students / researchers of Vedanta and is certain to have a very large number of visits.</p> -->
             </div>
         </div>
     </div>
 
     <div class="row prelims justify-content-center">
         <div class="col-md-4 text-center">
-            <a href="<?=BASE_URL?>About/#indic-academy"><img class="img-fluid" src="<?=PUBLIC_URL?>images/indic-academy.jpg"></a>
+            <img class="img-fluid" src="<?=PUBLIC_URL?>images/indic-academy.jpg"><br />
+            <img class="img-fluid mt-3" src="<?=PUBLIC_URL?>images/hkv.jpg" alt="Hari Kiran Vadlamani">
+            <p>This project was conceived by <strong>Hari Kiran Vadlamani,</strong> Founder Indic Academy. In 2015 dicovered the book and desired that it be rendered digitally and made available widely.</p> <a href="<?=BASE_URL?>About/#indic-academy"><p>- read more</p></a>
         </div>
         <div class="col-md-4 text-center mt-5">
-            <a href="<?=BASE_URL?>About/#santhanam"><h4>D P Santhanam <small>(1926 - 2012)</small></h4>
-            <p>Sponsors</p></a>
+            <h4>Sri D P Santhanam Endowment Fund</h4>
+            <!-- <p>Sponsors</p> --><img class="img-fluid" src="<?=PUBLIC_URL?>images/dps.jpg" alt="D P Santhanam"><!-- <h4>D P Santhanam <small>(1926 - 2012)</small></h4> -->
+            <p><strong>D P  Santhanam (1926-2012)</strong> had reserved a part of his estate for projects of public interest. This work was made possible by funding from there</p>
+             <a href="<?=BASE_URL?>About/#santhanam"><p>- read more</p></a>
         </div>
-        <div class="col-md-4 text-center">
-            <a href=""><img class="img-fluid" src="<?=PUBLIC_URL?>images/sriranga-logo.png">
+        <div class="col-md-4 text-center mt-5">
+            <a href=""><h4>Sriranga Digital Software Technologies</h4><img class="img-fluid" src="<?=PUBLIC_URL?>images/sriranga-logo.png">
             <p>Application development</p></a>
         </div>
     </div>

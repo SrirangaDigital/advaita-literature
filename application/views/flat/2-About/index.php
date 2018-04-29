@@ -12,7 +12,7 @@
             <img class="img-fluid mt-3" src="<?=PUBLIC_URL?>images/hkv.jpg">
         </div>
     </div>
-    <div class="row prelims justify-content-center" id="santhanam">
+    <div class="row flat-page justify-content-center" id="santhanam">
         <div class="col-md-2 text-center">
             <img class="img-fluid" src="<?=PUBLIC_URL?>images/dps.jpg"><br />
         </div>
@@ -28,6 +28,18 @@
                 <p>He was a God-fearing, hard working, frugal man who, though remaining single, was devoted to his extended family of sisters and their children. He shared his money, time, labours and affection freely. He was loyal to his employers and generous to the people who served his spartan home. Thus as per the words of Sri Krishna himself, Santhanam would be very dear to Him.</p>
                 <p>When he retired at 85, a few months before he died, he was bemused to discover that so much had accumulated in his account. He read in that the message that a good part was meant to be given away for public causes. </p>
                 <p>Sri D V Sridharan, his nephew, acting on behalf of D P Santhanam is pleased to contribute Rs. 5 Lakhs to fund the Advaitadhārā Project.</p>
+            </div>
+        </div>
+    </div>
+     <div class="row flat-page justify-content-center" id="thangaswami">
+        <div class="col-md-2 text-center">
+            <img class="img-fluid" src="<?=PUBLIC_URL?>images/thangaswami.jpg"><br />
+        </div>
+        <div class="col-md-10">
+            <h4>Pandit R. Thangaswami</h4>
+            <div class="description">
+                <p>Pandit R. Thangaswami, Lecturer in Sanskrit, University of Madras; Born on 26-7-1924, and educated at M.S.S. Pathasala, Chidambaram, Annamalai University & Madras University (Sanskrit College), Siromani in Vyakarana, Vedanta, Nyaya and Hindi Vidwan, and Praveena of Hindi Prachar Sabha, Madras; recipient of Madras University Research Fellow-ship during 1956-58. Awarded Research Scholarship of the Adi Sankara Advaita Research Centre,  Madras during 1977-78. After working as Asst. Professor of Sanskrit in the Presidency College, Madras 1958-67,  joined the Madras University in 1967.</p>
+<p>Author of Darsanamanjari, Editor of Kalyanamanjari Mahavakyarthamanjari, Slokavartikavyakhya with Tatparyatika (Revised edn.); has written 30 articles in Sanskrit, English, Tamil and Hindi. Presently working on Unadinighantu, and Avadikadarsana-sangraha.</p>
             </div>
         </div>
     </div>
