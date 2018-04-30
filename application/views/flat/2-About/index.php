@@ -38,8 +38,8 @@
         <div class="col-md-10">
             <h4>Pandit R. Thangaswami</h4>
             <div class="description">
-                <p>Pandit R. Thangaswami, Lecturer in Sanskrit, University of Madras; Born on 26-7-1924, and educated at M.S.S. Pathasala, Chidambaram, Annamalai University & Madras University (Sanskrit College), Siromani in Vyakarana, Vedanta, Nyaya and Hindi Vidwan, and Praveena of Hindi Prachar Sabha, Madras; recipient of Madras University Research Fellow-ship during 1956-58. Awarded Research Scholarship of the Adi Sankara Advaita Research Centre,  Madras during 1977-78. After working as Asst. Professor of Sanskrit in the Presidency College, Madras 1958-67,  joined the Madras University in 1967.</p>
-<p>Author of Darsanamanjari, Editor of Kalyanamanjari Mahavakyarthamanjari, Slokavartikavyakhya with Tatparyatika (Revised edn.); has written 30 articles in Sanskrit, English, Tamil and Hindi. Presently working on Unadinighantu, and Avadikadarsana-sangraha.</p>
+                <p>Pandit R. Thangaswami, Lecturer in Sanskrit, University of Madras; Born on 26-7-1924, and educated at M.S.S. Pathasala, Chidambaram, Annamalai University & Madras University (Sanskrit College), Siromani in Vyākaraṇa, Vedānta, Nyāya and Hindi Vidwan, and Praveena of Hindi Prachar Sabha, Madras; recipient of Madras University Research Fellow-ship during 1956-58. Awarded Research Scholarship of the Ādi Śankara Advaita Research Centre,  Madras during 1977-78. After working as Asst. Professor of Sanskrit in the Presidency College, Madras 1958-67,  joined the Madras University in 1967.</p>
+<p>Author of Darśanamanjarī, Editor of Kalyāṇamañjari Mahāvākyārthamañjarī, Ślokavārtikavyākhyā with Tātparyaṭīkā (Revised edn.); has written 30 articles in Sanskrit, English, Tamil and Hindi. Presently working on Uṇādinighaṇṭu, and Avadikadarśana-sangraha.</p>
             </div>
         </div>
     </div>
