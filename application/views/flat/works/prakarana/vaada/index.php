@@ -22,9 +22,9 @@
                 <li><span class="title">710. अद्वैतमार्ताण्डः</span> <span class="author">अनन्तकृष्णशास्त्री</span></li>
                 <li><span class="title">711. अद्वैतरत्नरक्षणम्</span> <span class="author">मधुसूदनसरस्वती</span></li>
                 <li><span class="title">712. अद्वैतसिद्धान्तदीपिका</span> <span class="author">भवानीशङ्करानन्दः</span></li>
-                <li>
+                 <li data-src="ref0328">
                     <span class="title">713. अद्वैतसिद्धिः</span> <span class="author">मधुसूदनसरस्वती</span>
-                    <aside>अद्वैतसिद्धिचन्द्रिका - धर्मदत्तबच्चा झा Ref. P. 205 of History of Navya - Nyaya - in Mithila</aside>
+                    <aside>अद्वैतसिद्धिचन्द्रिका - धर्मदत्तबच्चा झा <span id="ref0328">(Ref. P. 205 of History of Navya - Nyaya - in Mithila)</span></aside>
                 </li>
                 <li><span class="title">714. अद्वैतसिद्धिव्याख्या गुरुचन्दिका </span> <span class="author">ब्रह्मानन्दसरस्वती</span></li>
                 <li><span class="title">715. अद्वैतसिद्धिव्याख्या लघुचन्द्रिका</span> <span class="author">ब्रह्मानन्दसरस्वती</span></li>
@@ -166,10 +166,10 @@
                 <li><span class="title">818. विशिष्टाद्वैतदूषणसारसङ्ग्रह</span> <span class="author">ब्रह्मदेवपण्डितः </span></li>
                 <li><span class="title">819. विशिष्टाद्वैत भञ्जनम्</span> <span class="author">रामकृष्णः</span></li>
                 <li><span class="title">820. वेदान्तरक्षामणिः</span> <span class="author">अनन्तकृष्णशास्त्री</span></li>
-                <li>
+                <li data-src="ref0329;ref0330;ref0331">
                     <span class="title">821. व्यासतात्पर्यनिर्णयः</span> <span class="author">अय्यण्णादीक्षितः</span>
                     <aside>शतदूषणीखण्डनम्<br/>
-                        विशिष्टाद्वैतग्रन्थस्य शतदूषण्याख्यस्य खण्डनपरोऽयमद्वैतग्रन्थः 1885 A. D. वत्सरेषु आफर्ट महाशयेन सम्पादिते दक्षिणदेशीय प्राइवेटलाइबरीस मानस्कृष्ट सूच्यां No. 5417 एवं  8960 इति निर्दिष्टः । ग्रन्थोऽयं महाराजपुर शिवरामकृष्णशास्त्री गृहे No. 5417, एवं तिरुवयार जम्बनाथशास्त्रिगृहे 8960 इति ग्रन्थदर्शनस्थलमपि निर्दिष्टम् ।। 
+                        विशिष्टाद्वैतग्रन्थस्य शतदूषण्याख्यस्य खण्डनपरोऽयमद्वैतग्रन्थः <span class="year">(1885 A. D.)</span> वत्सरेषु आफर्ट महाशयेन सम्पादिते दक्षिणदेशीय प्राइवेटलाइबरीस मानस्कृष्ट सूच्यां <span id="ref0329">(No. 5417 एवं  8960)</span> इति निर्दिष्टः । ग्रन्थोऽयं महाराजपुर शिवरामकृष्णशास्त्री गृहे <span id="ref0330">(No. 5417)</span>, एवं तिरुवयार जम्बनाथशास्त्रिगृहे <span id="ref0331">(8960)</span> इति ग्रन्थदर्शनस्थलमपि निर्दिष्टम् ।। 
                     </aside>
                 </li>
                 <li><span class="title">822. शतभूषणी</span> <span class="author">अनन्तकृष्णशास्त्री</span></li>

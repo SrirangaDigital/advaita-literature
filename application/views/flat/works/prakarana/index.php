@@ -119,16 +119,16 @@
                 <li><span class="title">85. अद्वैतविद्याविनोदः</span> <span class="author">अच्युतशर्मा</span></li>
                 <li><span class="title">86. अद्वैतागमहृदयसंग्राहकश्लोकाः</span> <span class="author">शान्त्यानन्दः</span></li>
                 <li><span class="title">87. अद्वैतानन्दलहरी</span> <span class="author">अद्वैतानन्दतीर्थः</span></li>
-                <li>
+                <li data-src="ref0319">
                     <span class="title">88. अद्वैतानन्दसागरः</span> <span class="author">रघूत्तमतीर्थः</span>
-                    <aside>ग्रन्थोऽयं जयपुरपोटीकानासूच्यां (222 Vol II) दृश्यते । अस्य कर्ता पुरुषोत्तमतीर्थ - ब्रह्मानन्दसरस्वती - स्वयम्प्रकाशतीर्थशिष्यः रघूत्तमतीर्थ इति ज्ञायते । अस्य प्रतिलेखनकालः 1650 श 1683 A D इति ज्ञायते।।</aside>
+                    <aside>ग्रन्थोऽयं जयपुरपोटीकानासूच्यां <span id="ref0319">(222 Vol II)</span> दृश्यते । अस्य कर्ता पुरुषोत्तमतीर्थ - ब्रह्मानन्दसरस्वती - स्वयम्प्रकाशतीर्थशिष्यः रघूत्तमतीर्थ इति ज्ञायते । अस्य प्रतिलेखनकालः <span class="year">(1650 श 1683 A D)</span> इति ज्ञायते।।</aside>
                 </li>
                 <li><span class="title">89. अद्वैतनन्दानुभूतिः</span> <span class="author">सीतारामशास्त्री </span></li>
                 <li><span class="title">90. अद्वैतानुभवोल्लासः</span> <span class="author">सुब्रह्मण्येन्द्रः</span></li>
                 <li><span class="title">91. अद्वैतानुभूत्यष्टकम्</span> <span class="author">जीवन्मुक्तभिक्षुः</span></li>
-                <li>
+                 <li data-src="ref0320">
                     <span class="title">92. अद्वैतानुभूत्यष्टकव्याख्या-भावार्थदीपिका</span> <span class="author">जीवन्मुक्तभिक्षुः </span>
-                    <aside>   सव्याख्योऽयं ग्रन्थः लन्दननगरस्थभारतकार्यालयमुद्रितग्रन्थसूच्यां (IOL, Vol I दृश्यते )।।</aside>
+                    <aside>   सव्याख्योऽयं ग्रन्थः लन्दननगरस्थभारतकार्यालयमुद्रितग्रन्थसूच्यां <span id="ref0320">(IOL, Vol I दृश्यते )</span>।।</aside>
                 </li>
                 <li><span class="title">93. अद्वैतानुभूतिः</span> <span class="author">शङ्कराचार्यः</span></li>
                 <li><span class="title">94. अद्वैतानुसन्धानम्</span> <span class="author">नृसिम्हाश्रमी</span></li>
@@ -176,9 +176,9 @@
                 <li><span class="title">127. आत्मज्ञानप्रकरणदीपिका</span> <span class="author">पूर्णानुभवः</span></li>
                 <li><span class="title">128. आत्मज्ञानविवरणव्याख्या-सम्प्रदायतिलकम्</span> <span class="author">अनन्तराममुनिः</span></li>
                 <li><span class="title">129. आत्मज्ञानोपदेशविधिः</span> <span class="author">शङ्कराचार्यः</span></li>
-                <li>
+                 <li data-src="ref0321">
                     <span class="title">130. आत्मज्ञानोपदेशविधिटीका</span> <span class="author">रामचन्द्रसरस्वती</span>
-                    <aside>ग्रन्थोऽयं रायल आसियाटिक सोसाइटी कल्कत्ता पुस्तकालये (3.G.67) लभ्यते ।</aside>
+                    <aside>ग्रन्थोऽयं रायल आसियाटिक सोसाइटी कल्कत्ता पुस्तकालये <span id="ref0321">(3.G.67)</span> लभ्यते ।</aside>
                 </li>
                 <li><span class="title">131. आत्मज्ञानोपदेशविधिटीका</span> <span class="author">आनन्दगिरिः</span></li>
                 <li>
@@ -286,9 +286,9 @@
                     <span class="title">211. जीवन्मुक्ततरङ्गिणी</span> <span class="author">देवदत्तशर्मा</span>
                     <aside>    गन्थोऽयममुद्रितः लन्दननगरपुस्तकालये लभ्यते।</aside>
                 </li>
-                <li>
+                 <li data-src="ref0322">
                     <span class="title">212. जीवन्मुक्तलक्षणम्</span> <span class="author">दत्तात्रेयः</span>
-                    <aside>    ग्रन्थोऽयं सरस्वतीमहालयवर्णनात्मकपुस्तकसूच्याः त्रयोदशे भागे (D.C. TSML Vol XIII) मुद्रितः।</aside>
+                    <aside>    ग्रन्थोऽयं सरस्वतीमहालयवर्णनात्मकपुस्तकसूच्याः त्रयोदशे भागे <span id="ref0322">(D.C. TSML Vol XIII)</span> मुद्रितः।</aside>
                 </li>
                 <li>
                     <span class="title">213. जीवन्मुक्तिकल्याणम्</span> <span class="author">नल्लाध्वरिः</span>
@@ -296,14 +296,14 @@
                 </li>
                 <li><span class="title">214. जीवन्मुक्तिविवेकः</span> <span class="author">विद्यारण्यः</span></li>
                 <li><span class="title">215. जीवन्मुक्तिविवेकव्याख्या पूर्णानन्दकौमुदी</span> <span class="author">अच्युतशर्मा</span></li>
-                <li>
+                 <li data-src="ref0323">
                     <span class="title">216. जीवन्मुक्तिविवेकव्याख्या-दीपिका</span> <span class="author">पूर्णानन्दः</span>
-                    <aside>    ग्रन्थोऽयममुद्रितः बन्दरकारप्राच्यभाषासंशोधनालयपुस्तकालये (B.O.R.I) लभ्यते । </aside>
+                    <aside>    ग्रन्थोऽयममुद्रितः बन्दरकारप्राच्यभाषासंशोधनालयपुस्तकालये <span id="ref0323">(B.O.R.I)</span> लभ्यते । </aside>
                 </li>
                 <li><span class="title">217. जीवन्मुक्तिविवेकसारसंग्रहः</span> <span class="author">सदेकानन्दः</span></li>
-                <li>
+                 <li data-src="ref0324">
                     <span class="title">218. ज्ञानतारावलिः</span> <span class="author">चिद्रूपानन्दनाथः</span>
-                    <aside>    ग्रन्थोऽयममुद्रितः मद्रासराजकीयपुस्तकालये (MGOML) लभ्यते ।। </aside>
+                    <aside>    ग्रन्थोऽयममुद्रितः मद्रासराजकीयपुस्तकालये <span id="ref0324">(MGOML)</span> लभ्यते ।। </aside>
                 </li>
                 <li>
                     <span class="title">219. ज्ञानबोधः</span> <span class="author">शुकयोगी</span>
@@ -313,9 +313,9 @@
                     <span class="title">220. ज्ञानविलासकाव्यम्</span> <span class="author">जगन्नाथः</span>
                     <aside>    ग्रन्थोऽयममुद्रितस्सरस्वतीमहालये लभ्यते ।।</aside>
                 </li>
-                <li>
+                 <li data-src="ref0325">
                     <span class="title">221. ज्ञानाङ्कुरम्</span> <span class="author">कैपललक्ष्मीनृसिम्हः</span>
-                    <aside>    मद्रासराजकीयकोशागारे लभ्यते (MGOML) । </aside>
+                    <aside>    मद्रासराजकीयकोशागारे लभ्यते <span id="ref0325">(MGOML)</span> । </aside>
                 </li>
                 <li><span class="title">222. ज्ञानाङ्कुशम्</span> <span class="author">शङ्कराचार्यः</span></li>
                 <li><span class="title">223. ज्ञानाङ्कुशः सव्याख्यः</span> <span class="author">नीलकण्ठदीक्षितः</span></li>
@@ -380,9 +380,9 @@
                     <span class="title">275. दुर्जनोक्तिनिरासः</span> <span class="author">त्यागराजशास्त्री</span>
                     <aside>    राजुशास्त्रीत्यपरनामायं त्यागराजशास्त्री। ग्रन्थोऽयं श्रीविद्यामुद्रणालये कुम्भघोणे मुद्रितः । </aside>
                 </li>
-                <li>
+                 <li data-src="ref0326">
                     <span class="title">276. देहचतुष्टयम्</span> <span class="author">साक्षात्कारप्रकाशः</span>
-                    <aside>     ग्रन्थोऽयममुद्रितः बरोडा ओरियण्टल पुस्तकालये (BRD.) लभ्यते । </aside>
+                    <aside>     ग्रन्थोऽयममुद्रितः बरोडा ओरियण्टल पुस्तकालये <span id="ref0326">(BRD.)</span> लभ्यते । </aside>
                 </li>
                 <li><span class="title">277. द्वादशमञ्जरिकास्तोत्रम्</span> <span class="author">शङ्कराचार्यः</span></li>
                 <li><span class="title">278. द्वादशमञ्जरिकाव्याख्या मकरन्दः</span> <span class="author">स्वयम्प्रकाशानन्दः</span></li>
@@ -948,9 +948,9 @@
                     <span class="title">666. सर्वसिद्धान्तसंग्रहव्याख्या</span> <span class="author">शेषगोविन्दः</span>
                     <aside>अमुद्रितोऽयं ग्रन्थ मद्रासराजकीयपुस्तकालये लभ्यते । </aside>
                 </li>
-                <li>
+                 <li data-src="ref0327">
                     <span class="title">667. स्वप्नोदितम्</span> <span class="author">सदासिवब्रह्म</span>
-                    <aside>ग्रन्थोऽयं सरस्वतीमहायसूच्यास्त्रयोदशे भागेे DCTSML Vol XIII मुद्रितः । </aside>
+                    <aside>ग्रन्थोऽयं सरस्वतीमहायसूच्यास्त्रयोदशे भागेे <span id="ref0327">(DCTSML Vol XIII)</span> मुद्रितः । </aside>
                 </li>
                 <li><span class="title">668. स्वरूपदर्शनसिद्धाञ्जनम्</span> <span class="author">रामब्रह्मेन्द्रः</span></li>
                 <li><span class="title">669. स्वरूपब्रह्मभावना</span> <span class="author">स्वयम्प्रकाशः</span></li>
