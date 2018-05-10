@@ -157,7 +157,7 @@ a:hover {
 
 @media(min-width:768px) {
     .flat-page, .dynamic-page{
-        margin-top: 140px;
+        margin-top: 60px;
     }
     .banner .overlay {
         padding: 40px;

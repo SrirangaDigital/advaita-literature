@@ -55,7 +55,7 @@
 
     <!-- Navigation
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <nav id="mainNavBar" class="navbar navbar-light navbar-expand-lg fixed-top">
+    <nav id="mainNavBar" class="navbar navbar-light navbar-expand-lg">
         <div class="container-fluid clear-paddings">
             <!-- <a class="navbar-brand" href="<?=BASE_URL?>"><img src="<?=PUBLIC_URL?>images/logo.png" alt="Logo" class="logo"></a> -->
             <p class="navbar-text" id="navbarText"><small>&nbsp;</small><br />Advaitadhārā</p>
