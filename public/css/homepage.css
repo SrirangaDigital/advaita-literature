@@ -58,7 +58,6 @@ a:hover {
 }
 
 .prelims {
-    padding-top: 80px;
     /*padding-bottom: 40px;*/
     margin-bottom: 80px;
     font-weight: 300;
@@ -77,6 +76,13 @@ a:hover {
 .prelims h2 {
     font-family: 'Playfair Display', serif;
     font-size: 24px;
+}
+.prelims h4 {
+    font-family: 'Playfair Display', serif;
+    border-bottom: 2px solid #0091EA;
+    width: 60%;
+    padding: 20px;
+    margin: 0 auto 30px auto;
 }
 
 .word-of-the-day {

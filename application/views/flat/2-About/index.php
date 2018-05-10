@@ -1,4 +1,12 @@
- <div class="row prelims justify-content-center align-items-center" id="indic-academy" style="color: #FFF; font-weight: 400">
+<div class="container pt main">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="name">
+                <h1>About the initiative</h1>
+            </div>
+        </div>
+    </div>
+     <div class="row justify-content-center align-items-center" id="indic-academy" style="color: #FFF; font-weight: 400">
         <div class="p-5 col-md-8 back-orange" style="color: #FFF;">
             <h4>Indic Academy and Hari Kiran Vadlamani</h4>
             <div class="description">
@@ -13,10 +21,10 @@
         </div>
     </div>
     <div class="row flat-page justify-content-center" id="santhanam">
-        <div class="col-md-2 text-center">
+        <div class="col-md-3 text-center">
             <img class="img-fluid" src="<?=PUBLIC_URL?>images/dps.jpg"><br />
         </div>
-        <div class="col-md-10">
+        <div class="col-md-8">
             <h4>D P Santhanam <small>(1926 - 2012)</small></h4>
             <div class="description">
                 <p style="color: #fd7f01;">यस्मान्नोद्विजते लोको लोकान्नोद्विजते च यः ।<br />हर्षामर्षभयोद्वेगैर्मुक्तो यः स च मे प्रियः ॥ भगवद्गीता, १२-१५ ॥</p>
@@ -31,15 +39,4 @@
             </div>
         </div>
     </div>
-     <div class="row flat-page justify-content-center" id="thangaswami">
-        <div class="col-md-2 text-center">
-            <img class="img-fluid" src="<?=PUBLIC_URL?>images/thangaswami.jpg"><br />
-        </div>
-        <div class="col-md-10">
-            <h4>Pandit R. Thangaswami</h4>
-            <div class="description">
-                <p>Pandit R. Thangaswami, Lecturer in Sanskrit, University of Madras; Born on 26-7-1924, and educated at M.S.S. Pathasala, Chidambaram, Annamalai University & Madras University (Sanskrit College), Siromani in Vyākaraṇa, Vedānta, Nyāya and Hindi Vidwan, and Praveena of Hindi Prachar Sabha, Madras; recipient of Madras University Research Fellow-ship during 1956-58. Awarded Research Scholarship of the Ādi Śankara Advaita Research Centre,  Madras during 1977-78. After working as Asst. Professor of Sanskrit in the Presidency College, Madras 1958-67,  joined the Madras University in 1967.</p>
-<p>Author of Darśanamanjarī, Editor of Kalyāṇamañjari Mahāvākyārthamañjarī, Ślokavārtikavyākhyā with Tātparyaṭīkā (Revised edn.); has written 30 articles in Sanskrit, English, Tamil and Hindi. Presently working on Uṇādinighaṇṭu, and Avadikadarśana-sangraha.</p>
-            </div>
-        </div>
-    </div>
+</div>
