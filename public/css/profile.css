@@ -256,20 +256,38 @@ margin-left: -20px;
   cursor: pointer;
 }
 
+.overlay{
+    background-color:#FFF;
+    border: 1px solid #CCC; 
+}
+ 
 .node circle {
   fill: #fff;
-  stroke: #BB0000;
+  stroke: steelblue;
   stroke-width: 1.5px;
 }
-
+ 
 .node text {
-  font-size: 16px;
+  font-size:18px; 
 }
-
+ 
 .link {
   fill: none;
-  stroke: #ddd;
+  stroke: #ccc;
   stroke-width: 1.5px;
   /*stroke-dasharray: 5,5;*/
 }
 
+.templink {
+  fill: none;
+  stroke: red;
+  stroke-width: 3px;
+}
+
+.ghostCircle.show{
+    display:block;
+}
+
+.ghostCircle, .activeDrag .ghostCircle{
+     display: none;
+}

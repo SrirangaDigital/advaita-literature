@@ -25,3 +25,9 @@
   background: linear-gradient(to right, #fd5f01, #fd7f01);
   /*background: linear-gradient(to right, #338F9A, #0F76BB);*/
 }
+.blue{
+  color: #0091EA !important;
+}
+.green{
+  color: #2E7D32 !important;
+}
