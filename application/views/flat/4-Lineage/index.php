@@ -25,10 +25,9 @@ $profileID = '0005';
 
 
 <script type="text/javascript">
-    var fileName = "<?=PUBLIC_URL?>profiles/index.json?v=1.0";
+    var fileName = "<?=PUBLIC_URL?>profiles/index.json?v=1.1";
     var BASE_URL = '<?=BASE_URL?>';
 </script>
 
-<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
 <script src="http://d3js.org/d3.v3.min.js"></script>
-<script type="text/javascript" src="<?=PUBLIC_URL?>js/dndTree.js"></script>
+<script type="text/javascript" src="<?=PUBLIC_URL?>js/dndTree.js?v=1.0"></script>

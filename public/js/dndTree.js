@@ -395,7 +395,7 @@ treeJSON = d3.json(fileName, function(error, treeData) {
 
         // Set widths between levels based on maxLabelLength.
         nodes.forEach(function(d) {
-            d.y = (d.depth * 220); //maxLabelLength * 10px
+            d.y = (d.depth * 250); //maxLabelLength * 10px
             // alternatively to keep a fixed scale one can set a fixed depth per level
             // Normalize for fixed-depth by commenting out below line
             // d.y = (d.depth * 500); //500px per level.
@@ -433,7 +433,7 @@ treeJSON = d3.json(fileName, function(error, treeData) {
                 return d.children || d._children ? "end" : "start";
             })
             .text(function(d) {
-                return d.name;
+                return devanagari2iast(d.name);
             })
             .style("fill-opacity", 0)
             .on("click", openLocation);
@@ -461,7 +461,7 @@ treeJSON = d3.json(fileName, function(error, treeData) {
                 return d.children || d._children ? "end" : "start";
             })
             .text(function(d) {
-                return d.name;
+                return devanagari2iast(d.name);
             });
 
         // Change the circle fill depending on whether it has children and is collapsed
