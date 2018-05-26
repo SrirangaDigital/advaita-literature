@@ -135,7 +135,6 @@ function devanagari2iast(text) {
     text = text.replace(/८/g, "8");
     text = text.replace(/९/g, "9");
 
-    text += " ";
     text = text.replace(/a\.(a|ā|i|ī|u|ū|ṛ|ṝ|e|ai|o|au|āṅ)/g, "\$1");
     text = text.replace(/\.(ṁ|ḥ|ṅ|ñ|ṇ|n|m)/g, "\$1");
     text = text.replace(/a\.zzz/g, "");
@@ -143,4 +142,11 @@ function devanagari2iast(text) {
     $etext = text.replace(/\s$/, "");
 
     return text;
+}
+
+function titleCase(text){
+
+    return text.toLowerCase().split(' ').map(function(word) {
+        return (word.charAt(0).toUpperCase() + word.slice(1));
+      }).join(' ');
 }

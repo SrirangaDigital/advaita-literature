@@ -1,8 +1,16 @@
+<script type="text/javascript">
+$(document).ready(function(){
+
+    var name = $('#name').html();
+    name = name + ' <small>(' + titleCase(devanagari2iast(name)) + ')</small>';
+    $('#name').html(name);
+});
+</script>
 <div id="grid" class="container pt-5">
     <div class="row">
         <div class="col-md-12 main">
             <div class="name">
-                <h1><?=$data->name?></h1>
+                <h1 id="name"><?=$data->name?></h1>
                 <h5><?=(isset($data->period)) ? $data->period : ''?></h5>
             </div>
         </div>

@@ -252,10 +252,6 @@ margin-left: -20px;
 
 /*d3js styles*/
 
-.node {
-  cursor: pointer;
-}
-
 .overlay{
     background-color:#FFF;
     border: 1px solid #CCC; 
@@ -269,6 +265,12 @@ margin-left: -20px;
  
 .node text {
   font-size:16px; 
+}
+.node text.url{
+  cursor: pointer;
+}
+.node text.url:hover {
+  font-weight: bold;
 }
  
 .link {

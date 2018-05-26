@@ -429,11 +429,12 @@ treeJSON = d3.json(fileName, function(error, treeData) {
             })
             .attr("dy", ".35em")
             .attr('class', 'nodeText')
+            .attr("class", function(d) { return (d.url !== undefined) ? "url" : "no-url"; })
             .attr("text-anchor", function(d) {
                 return d.children || d._children ? "end" : "start";
             })
             .text(function(d) {
-                return devanagari2iast(d.name);
+                return titleCase(devanagari2iast(d.name));
             })
             .style("fill-opacity", 0)
             .on("click", openLocation);
@@ -461,7 +462,7 @@ treeJSON = d3.json(fileName, function(error, treeData) {
                 return d.children || d._children ? "end" : "start";
             })
             .text(function(d) {
-                return devanagari2iast(d.name);
+                return titleCase(devanagari2iast(d.name));
             });
 
         // Change the circle fill depending on whether it has children and is collapsed
