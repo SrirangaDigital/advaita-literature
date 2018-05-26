@@ -249,6 +249,10 @@ margin-left: -20px;
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label h2 a {
   color: inherit;
 }
+#toggleScript{
+  cursor: pointer;
+  color: #0091EA;
+}
 
 /*d3js styles*/
 

@@ -1,12 +1,46 @@
 <?php
 $profileID = '0005';
 ?>
+<script type="text/javascript">
+$(document).ready(function(){
+
+    $('#toggleScript').on('click', function(){
+
+        $('#tree-container text').each(function(){
+
+            var nameDevanagari = $(this).html();
+
+            if($(this).hasClass('dev')) {
+
+                nameRoman = titleCase(devanagari2iast(nameDevanagari));
+
+                $(this).attr('data-dev', nameDevanagari);
+                $(this).html(nameRoman);
+                $(this).removeClass('dev');
+                $(this).addClass('roman');
+            }
+            else if($(this).hasClass('roman')) {
+
+                
+                $(this).html($(this).attr('data-dev'));
+                $(this).removeClass('roman');
+                $(this).addClass('dev');
+            }
+        });
+    });
+});
+</script>
 <div class="container pt">
     <div class="row">
         <div class="col-md-12 main">
             <div class="name">
                 <h1>गुरुशिष्यपरम्परा</h1>
             </div>
+        </div>
+    </div>
+    <div class="row main">
+        <div class="col-md-12">
+            <p class="text-right"><a id="toggleScript">Toggle script (Devanagari / Roman)</a></p>
         </div>
     </div>
     <div class="row main">
@@ -30,4 +64,4 @@ $profileID = '0005';
 </script>
 
 <script src="http://d3js.org/d3.v3.min.js"></script>
-<script type="text/javascript" src="<?=PUBLIC_URL?>js/dndTree.js?v=1.0"></script>
+<script type="text/javascript" src="<?=PUBLIC_URL?>js/dndTree.js?v=1.1"></script>
