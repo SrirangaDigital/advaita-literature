@@ -8,7 +8,7 @@
         </div>
     </div>
     <div class="row main justify-content-between text">
-        <div class="col-md-8">
+        <div class="col-md-8" data-src="">
             <p>अष्टादशभिरध्यायैः सप्तशतश्लोकैश्च पूर्णेयं गीता निःश्रेयसप्राप्त्युपायान् स्वभावमधुरैः पदविन्यासैः प्रतिपायति । </p>
             <p class="verse">
                 "श्लोकैकं धृराष्टस्य नव दुर्योधनस्तथा । <br />
