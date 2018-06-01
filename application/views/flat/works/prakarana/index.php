@@ -143,7 +143,7 @@
                 <li id="w04-0569" data-src=""><span class="title">100. अद्वैतामृतसारकम्</span> <span class="author">आदिनारायणः</span></li>
                 <li id="w04-0570" data-src=""><span class="title">101. अद्वैतामोदः</span> <span class="author">वासुदेवशास्त्री अभ्यङ्करः</span></li>
                 <li id="w04-0571" data-src=""><span class="title">102. अधिकरणकुञ्चिकाः</span> <span class="author">अप्पय्यदीक्षितः</span></li>
-                <li id="w04-0572" data-src=""><span class="title">103. अदिकरणञ्जरी</span> <span class="author">चित्सुखाचार्यः</span></li>
+                <li id="w04-0572" data-src=""><span class="title">103. अधिकरणञ्जरी</span> <span class="author">चित्सुखाचार्यः</span></li>
                 <li id="w04-0573" data-src=""><span class="title">104. अधिकरणसङ्गतिः</span> <span class="author">चित्सुखाचार्यः</span></li>
                 <li id="w04-0574" data-src=""><span class="title">105. अधिष्ठानविवेकः</span> <span class="author">पूर्णप्रकाशः</span></li>
                 <li id="w04-0575" data-src=""><span class="title">106. अधिष्ठानविवेकः</span> <span class="author">प्रकाशानन्दः</span></li>
@@ -200,7 +200,7 @@
                 <li id="w04-0611" data-src=""><span class="title">142. आत्मबोधः</span> <span class="author">शङ्कराचार्यः</span></li>
                 <li id="w04-0612" data-src=""><span class="title">143. आत्मबोधव्याख्य-दीपिका</span> <span class="author">विश्वेश्वरपण्डितः </span></li>
                 <li id="w04-0613" data-src=""><span class="title">144. आत्मबोधटीका</span> <span class="author">चित्सुखशिष्यः</span></li>
-                <li id="w04-0614" data-src=""><span class="title">145. आत्मबोधव्याख्या</span> <span class="author">पद्भपादाचार्यः</span></li>
+                <li id="w04-0614" data-src=""><span class="title">145. आत्मबोधव्याख्या</span> <span class="author">पद्मपादाचार्यः</span></li>
                 <li id="w04-0615" data-src=""><span class="title">146. आत्मबोधव्याख्या</span> <span class="author">बोघेन्द्रसरस्वती</span></li>
                 <li id="w04-0616" data-src=""><span class="title">147. आत्मबोधव्याख्या</span> <span class="author">ब्रह्मानन्दयोगी</span></li>
                 <li id="w04-0617" data-src="">
