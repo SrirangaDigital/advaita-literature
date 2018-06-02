@@ -160,7 +160,7 @@
                 <li id="w04-1282" data-src=""><span class="title">812. मिथ्यात्वानुमानम्</span> <span class="author">रामाशास्त्री</span></li>
                 <li id="w04-1283" data-src=""><span class="title">813. रामानुजमतखण्डनम्</span> <span class="author">एकोजीराजः </span></li>
                 <li id="w04-1284" data-src=""><span class="title">814. लघुचन्द्रिकाव्याख्या विदृलेशीया</span> <span class="author">विट्टलेशः</span></li>
-                <li id="w04-1285" data-src=""><span class="title">815. वादनक्षत्रमालिका</span> <span class="author">अप्यय्यदीक्षितः</span></li>
+                <li id="w04-1285" data-src=""><span class="title">815. वादनक्षत्रमालिका</span> <span class="author">अप्पय्यदीक्षितः</span></li>
                 <li id="w04-1286" data-src=""><span class="title">816. वादावलिः</span> <span class="author">रत्नखेटश्रीनिवासः</span></li>
                 <li id="w04-1287" data-src=""><span class="title">817. विरोधवरूधिनी</span> <span class="author">उमामहेश्वरः</span></li>
                 <li id="w04-1288" data-src=""><span class="title">818. विशिष्टाद्वैतदूषणसारसङ्ग्रह</span> <span class="author">ब्रह्मदेवपण्डितः </span></li>
