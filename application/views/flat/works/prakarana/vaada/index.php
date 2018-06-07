@@ -39,7 +39,7 @@
                 <li id="w04-1194" data-src=""><span class="title">724. इष्टसिद्धिविवरणम्</span> <span class="author">ज्ञानोत्तमः</span></li>
                 <li id="w04-1195" data-src=""><span class="title">725. उपाधिखण्डनम्</span> <span class="author">पुरुषोत्तमसरस्वती</span></li>
                 <li id="w04-1196" data-src=""><span class="title">726. खण्डनखण्डखाद्यम्</span> <span class="author">श्रीहर्षः</span></li>
-                <li id="w04-1197" data-src=""><span class="title">727.</span> <span class="author">खण्डनखण्डखाद्यव्याख्याः आनन्दवर्धिनी शङ्करमिश्रः</span></li>
+                <li id="w04-1197" data-src=""><span class="title">727.</span>खण्डनखण्डखाद्यव्याख्याः - आनन्दवर्धिनी<span class="author">शङ्करमिश्रः</span></li>
                 <li id="w04-1198" data-src=""><span class="title">728. खण्डनखण्डखाद्य व्याख्या </span> <span class="author">चित्सुखाचार्यः</span></li>
                 <li id="w04-1199" data-src=""><span class="title">729. खण्डनखण्डखाद्यटीका</span> <span class="author">पद्मनाभपण्डितः</span></li>
                 <li id="w04-1200" data-src=""><span class="title">730. खण्डनमण्डनम्</span> <span class="author">भवनाथः</span></li>
@@ -91,7 +91,7 @@
                     <span class="title">763. दशकोटिः </span> <span class="author">अप्पय्यदीक्षितः</span>
                     <aside>ग्रन्थोऽयमडयारपुस्तकालये लभ्यते । </aside>
                 </li>
-                <li id="w04-1234" data-src=""><span class="title">764. दृग्दृश्यसम्बन्धानुपपत्तिप्रकाशः</span> <span class="author">ऋम्बकभट्टः</span></li>
+                <li id="w04-1234" data-src=""><span class="title">764. दृग्दृश्यसम्बन्धानुपपत्तिप्रकाशः</span> <span class="author">त्र्यम्बकभट्टः</span></li>
                 <li id="w04-1235" data-src=""><span class="title">765. दृश्यविषयताखण्डनम्</span> <span class="author">अच्युतशर्मा</span></li>
                 <li id="w04-1236" data-src=""><span class="title">766. ध्वान्तानुबन्धधिक्कारः</span> <span class="author">रामेश्वरभट्टः</span></li>
                 <li id="w04-1237" data-src=""><span class="title">767. नवकोटिः</span> <span class="author">रामाशास्त्री</span></li>

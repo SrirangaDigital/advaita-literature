@@ -331,7 +331,7 @@
                     <aside>    ग्रन्थोऽयं कल्कत्तासंकृतकलाशालापुस्तकालये लभ्यते ।</aside>
                 </li>
                 <li id="w04-0702" data-src=""><span class="title">232. तत्वबोधः</span> <span class="author">वासुदेवेन्द्रः </span></li>
-                <li id="w04-0703" data-src=""><span class="title">233. तत्वबोधः</span> <span class="author">मुकुन्दमुनिः</span></li>
+                <li	 data-src=""><span class="title">233. तत्वबोधः</span> <span class="author">मुकुन्दमुनिः</span></li>
                 <li id="w04-0704" data-src=""><span class="title">234. तत्वबोधः</span> <span class="author">महादेवसरस्वती</span></li>
                 <li id="w04-0705" data-src=""><span class="title">235. तत्वबोधः</span> <span class="author">तत्वबोधभगवान् </span></li>
                 <li id="w04-0706" data-src=""><span class="title">236. तत्वबोधप्रकरणम्</span> <span class="author">रामचन्द्रबुधः</span></li>
@@ -594,7 +594,7 @@
                 </li>
                 <li id="w04-0892" data-src=""><span class="title">422. ब्रह्मोत्तरतत्वमाला</span> <span class="author">शङ्करमिश्रसुकविः</span></li>
                 <li id="w04-0893" data-src="">
-                    <span class="title">423. भावनापुरुषोत्तमनाटकम्</span> <span class="author">रत्नखेट - श्रीनिवासः़</span>
+                    <span class="title">423. भावनापुरुषोत्तमनाटकम्</span> <span class="author">रत्नखेट - श्रीनिवासः</span>
                     <aside> अमुद्रितोऽयं ग्रन्थः सरस्वतीमहालये लभ्यते ।</aside>
                 </li>
                 <li id="w04-0894" data-src=""><span class="title">424. भावाज्ञानप्रकाशिका</span> <span class="author">शिवरामः</span></li>
@@ -910,7 +910,7 @@
                     <aside>ग्रन्थोऽयं मद्रासराजकीयपुस्तकालये लभ्यते । </aside>
                 </li>
                 <li id="w04-1116" data-src=""><span class="title">646. सिद्धान्तमुक्तावलिः</span> <span class="author">प्रकाशानन्दः</span></li>
-                <li id="w04-1117" data-src=""><span class="title">647. सिद्धान्तमुक्तावलीव्याख्या सिद्धान्तदीपिका</span> <span class="author">नामादीक्षितः</span></li>
+                <li id="w04-1117" data-src=""><span class="title">647. सिद्धान्तमुक्तावलीव्याख्या सिद्धान्तदीपिका</span> <span class="author">नानादीक्षितः</span></li>
                 <li id="w04-1118" data-src=""><span class="title">648. सिद्धान्तरत्नम्</span> <span class="author">बलदेवविद्यामूषणः </span></li>
                 <li id="w04-1119" data-src="">
                     <span class="title">649. सिद्धान्तरत्नमाला</span> <span class="author">श्रीवत्सलाञ्च्छनशर्मा </span>
