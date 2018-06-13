@@ -204,8 +204,8 @@
                 <li id="w04-0615" data-src=""><span class="title">146. आत्मबोधव्याख्या</span> <span class="author">बोघेन्द्रसरस्वती</span></li>
                 <li id="w04-0616" data-src=""><span class="title">147. आत्मबोधव्याख्या</span> <span class="author">ब्रह्मानन्दयोगी</span></li>
                 <li id="w04-0617" data-src="">
-                    <span class="title">148. आत्मबोधव्याख्या-बालबोधिनी</span> <span class="author">स्वयम्प्रकाशनारायणः</span>
-                    <aside>   अमुद्रितोऽयं आत्मबोधिन्यपरनामायं ग्रन्थः जयपुर पोटीखानासूच्यां दृश्यते ।</aside>
+                    <span class="title">148. आत्मबोधव्याख्या-बालबोधिनी</span><span class="author">स्वयम्प्रकाशनारायणः</span>
+                    <aside>अमुद्रितोऽयं आत्मबोधिन्यपरनामायं ग्रन्थः जयपुर पोटीखानासूच्यां दृश्यते ।</aside>
                 </li>
                 <li id="w04-0618" data-src=""><span class="title">149. आत्मबोधव्याख्या</span> <span class="author">सच्चिदानन्दयोगी</span></li>
                 <li id="w04-0619" data-src=""><span class="title">150. आत्मबोधव्याख्या</span> <span class="author">मधुसूदनसरस्वती</span></li>
