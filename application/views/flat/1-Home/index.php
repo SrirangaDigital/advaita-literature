@@ -7,21 +7,6 @@
             </div>
         </div>
     </div>
-
-    <div class="row prelims justify-content-around">
-        <div class="col-md-5 text-center">
-            <h4>Promoter</h4>
-            <img class="mr-4" src="<?=PUBLIC_URL?>images/indic-academy.jpg?v=1.0"> <img src="<?=PUBLIC_URL?>images/hkv.jpg" alt="Hari Kiran Vadlamani">
-            <p>This project was conceived by <strong>Hari Kiran Vadlamani,</strong> Founder Indic Academy. In 2015 dicovered the book and desired that it be rendered digitally and made available widely.</p>
-            <p class="text-right"><a href="<?=BASE_URL?>About/#indic-academy">...more</a></p>
-        </div>
-        <div class="col-md-5 text-center">
-            <h4>Supporter</h4>
-            <img class="img-fluid" src="<?=PUBLIC_URL?>images/dps.jpg" alt="D P Santhanam"><!-- <h4>D P Santhanam <small>(1926 - 2012)</small></h4> -->
-            <p><strong>D P  Santhanam (1926-2012)</strong> had reserved a part of his estate for projects of public interest. This work was made possible by funding from there.</p>
-            <p class="text-right"><a href="<?=BASE_URL?>About/#santhanam">...more</a></p>
-        </div>
-    </div>
     <div class="row prelims justify-content-around">
         <div class="col-md-5 text-center">
             <h4>Application development</h4>
