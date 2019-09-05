@@ -63,5 +63,5 @@ $(document).ready(function(){
     var BASE_URL = '<?=BASE_URL?>';
 </script>
 
-<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="https://d3js.org/d3.v3.min.js"></script>
 <script type="text/javascript" src="<?=PUBLIC_URL?>js/dndTree.js?v=1.1"></script>
